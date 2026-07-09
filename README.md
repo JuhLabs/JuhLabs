@@ -1,3 +1,4 @@
+<!-- Profile README for github.com/JuhLabs -->
 <p align="center">
   <img src="assets/banner.png" alt="Julian Hermstad, Full-Stack and Applied AI Engineer, Trondheim, Norway" width="100%" />
 </p>
