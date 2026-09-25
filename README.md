@@ -19,7 +19,18 @@
 
 ### 🧭 Featured work
 
-**[juhradial-mx](https://github.com/JuhLabs/juhradial-mx)**: a Logi Options+ alternative for Linux. A radial menu for Logitech MX Master mice on KDE Plasma 6, Hyprland, and Wayland. A Rust daemon reads the thumb-gesture button over evdev and a KWin overlay paints the menu, without ever touching the mouse firmware.
+**[juhradial-mx](https://github.com/JuhLabs/juhradial-mx)**: the Logi Options+ alternative for Linux, now in 0.4.5 Beta. A Rust daemon speaks HID++ to Logitech MX mice over hidraw (no vendor software, no root), an overlay paints an Actions Ring under the cursor, and a Qt/QML Settings app configures buttons, directional gestures, per-app profiles, the MX Master 4's haptic motor, the MX Keys S and the new MX Keypad's display keys. Native on Wayland: KDE Plasma 6, GNOME, Hyprland, COSMIC, Sway, niri, and X11. [Docs](https://juhlabs.github.io/juhradial-mx/) · [Releases](https://github.com/JuhLabs/juhradial-mx/releases)
+
+<p align="center">
+  <a href="https://github.com/JuhLabs/juhradial-mx/releases"><img src="https://img.shields.io/github/v/release/JuhLabs/juhradial-mx?include_prereleases&style=flat&label=release&color=38bdf8" alt="latest release"/></a>
+  <a href="https://github.com/JuhLabs/juhradial-mx/releases"><img src="https://img.shields.io/github/downloads/JuhLabs/juhradial-mx/total?style=flat&label=downloads&color=38bdf8" alt="downloads"/></a>
+  <a href="https://github.com/JuhLabs/juhradial-mx/forks"><img src="https://img.shields.io/github/forks/JuhLabs/juhradial-mx?style=flat&label=forks&color=38bdf8" alt="forks"/></a>
+  <a href="https://github.com/JuhLabs/juhradial-mx/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-38bdf8?style=flat" alt="GPL-3.0"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JuhLabs/juhradial-mx"><img width="100%" src="https://raw.githubusercontent.com/JuhLabs/juhradial-mx/master/assets/github/shot-buttons.jpg" alt="JuhRadial MX Settings, Buttons page: the MX Master 4 with clickable button callouts and the Actions Ring editor" /></a>
+</p>
 
 <p align="center"><img width="100%" src="assets/sep-braces.png" alt="" /></p>
 
@@ -65,8 +76,8 @@ The tech-icon grid lives in the header above. In words:
 ### 📊 GitHub
 
 <p align="left">
-  <img width="390" src="assets/card-github.png" alt="GitHub summary" />
-  <img width="390" src="assets/card-juhradial.png" alt="juhradial-mx" />
+  <img width="390" src="https://raw.githubusercontent.com/JuhLabs/JuhLabs/output/card-github.svg" alt="GitHub summary" />
+  <img width="390" src="https://raw.githubusercontent.com/JuhLabs/JuhLabs/output/card-juhradial.svg" alt="juhradial-mx" />
 </p>
 
 <p align="center">
